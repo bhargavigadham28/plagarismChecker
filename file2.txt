@@ -1,0 +1,24 @@
+How Do Plagiarism Checkers Work?
+
+A plagiarism checker uses advanced database software to scan for matches between your text and existing texts. They are used by universities to scan student assignments. There are also commercial plagiarism checkers you can use to check your own work before submitting.
+
+Behind the scenes, plagiarism checkers crawl web content and index it, scanning your text for similarities against a database of existing content on the internet. Exact matches are highlighted using keyword analysis. Some checkers can also identify non-exact matches (paraphrasing plagiarism).
+
+On the user end, the checker typically provides you with a plagiarism percentage, highlights the plagiarism, and lists the sources. You can get an interactive look at the Scribbr Plagiarism Checker below.
+
+
+Table of contents
+Differences between plagiarism checkers
+While most plagiarism checkers operate similarly, there are some differences between them that affect the kinds of plagiarism they can detect.
+
+To help you choose the best tool, we conducted in-depth research to identify the best plagiarism checkers in 2022. You can also read about the key differences between checkers below.
+
+Database size
+Not every plagiarism checker has access to the same database. This can lead to major differences in results.
+
+Free plagiarism checkers often have smaller databases. This means that there are large gaps in their ability to find matches, especially with less readily available online content. The highest-quality plagiarism checkers have larger databases, enhancing their ability to find matches.
+
+Scribbr’s plagiarism checker (which has a free version) has access to Turnitin’s comprehensive database. In addition to web sources, this database also contains scientific publications, scholarly journals, and books.
+
+Quality of scanning
+The quality of the scanning software itself also varies widely. Many free checkers only recognize exact matches. If you paraphrased too closely or forgot to add a citation, these checkers are unlikely to flag it.
