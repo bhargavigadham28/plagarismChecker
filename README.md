@@ -1,1 +1,2 @@
 # plagarismChecker
+#code clause
